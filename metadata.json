@@ -1,0 +1,8 @@
+{
+  "name": "HidroSim: Centrales Hidroeléctricas Interactivas",
+  "description": "Plataforma educativa interactiva con esquemas animados de los tres tipos de centrales hidroeléctricas: por flujo (pasada), con embalse y de bombeo reversible.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
